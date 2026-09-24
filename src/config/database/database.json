@@ -1,0 +1,110 @@
+[
+  {
+    "codigo": "T001",
+    "titulo": "Oppenheimer",
+    "categoria": "Película",
+    "reparto": ["Cillian Murphy", "Emily Blunt", "Robert Downey Jr.", "Matt Damon", "Florence Pugh"],
+    "genero": "Drama histórico / Biopic",
+    "sinopsis": "Dirigida por Christopher Nolan, narra la historia del físico J. Robert Oppenheimer y su rol al frente del Proyecto Manhattan, que desarrolló la primera bomba atómica durante la Segunda Guerra Mundial.",
+    "trailer": "https://www.youtube.com/watch?v=bK6ldnjE3Y0"
+  },
+  {
+    "codigo": "T002",
+    "titulo": "Stranger Things (Temporada 4)",
+    "categoria": "Serie",
+    "reparto": ["Millie Bobby Brown", "Finn Wolfhard", "Winona Ryder", "David Harbour", "Sadie Sink"],
+    "genero": "Ciencia ficción / Terror",
+    "sinopsis": "El grupo de amigos de Hawkins se enfrenta separado a una nueva y aterradora amenaza sobrenatural, mientras intentan descubrir el origen del Mundo del Revés antes de que sea demasiado tarde.",
+    "trailer": "https://www.youtube.com/watch?v=a3thyAnShck"
+  },
+  {
+    "codigo": "T003",
+    "titulo": "La Casa de Papel (Parte 5 - Volumen 2)",
+    "categoria": "Serie",
+    "reparto": ["Álvaro Morte", "Úrsula Corberó", "Itziar Ituño", "Pedro Alonso", "Najwa Nimri"],
+    "genero": "Thriller / Atraco",
+    "sinopsis": "En el tramo final del atraco al Banco de España, la banda liderada por El Profesor debe resistir el asedio del ejército mientras la tensión entre sus propios miembros crece a niveles extremos.",
+    "trailer": "https://www.youtube.com/watch?v=lUc4lB0FcvA"
+  },
+  {
+    "codigo": "T004",
+    "titulo": "Wednesday",
+    "categoria": "Serie",
+    "reparto": ["Jenna Ortega", "Catherine Zeta-Jones", "Luis Guzmán", "Gwendoline Christie", "Christina Ricci"],
+    "genero": "Comedia negra / Misterio",
+    "sinopsis": "Wednesday Addams es enviada a la Academia Nevermore, un colegio para marginados, donde intenta controlar sus nuevas habilidades psíquicas mientras investiga una serie de crímenes que azotan el pueblo.",
+    "trailer": "https://www.youtube.com/watch?v=Qa5kFRxBkNw"
+  },
+  {
+    "codigo": "T005",
+    "titulo": "The Last of Us",
+    "categoria": "Serie",
+    "reparto": ["Pedro Pascal", "Bella Ramsey", "Anna Torv", "Gabriel Luna", "Nick Offerman"],
+    "genero": "Drama post-apocalíptico",
+    "sinopsis": "Veinte años después de que un hongo mutante devastara la civilización, un sobreviviente curtido es contratado para sacar de contrabando a una niña de una zona de cuarentena, un viaje que se convierte en la última esperanza de la humanidad.",
+    "trailer": "https://www.youtube.com/watch?v=yyGetSp7CIc"
+  },
+  {
+    "codigo": "T006",
+    "titulo": "El Camino: A Breaking Bad Movie",
+    "categoria": "Película",
+    "reparto": ["Aaron Paul", "Charles Baker", "Matthew Lee Jones", "Krysten Ritter"],
+    "genero": "Drama / Crimen",
+    "sinopsis": "Tras su dramática fuga del cautiverio, Jesse Pinkman debe hacer las paces con su pasado y encontrar una forma de escapar de su vida como fugitivo, en esta secuela directa del final de Breaking Bad.",
+    "trailer": "https://www.youtube.com/watch?v=Bi3mMWw_cJ4"
+  },
+  {
+    "codigo": "T007",
+    "titulo": "Dune: Part Two",
+    "categoria": "Película",
+    "reparto": ["Timothée Chalamet", "Zendaya", "Rebecca Ferguson", "Austin Butler", "Florence Pugh"],
+    "genero": "Ciencia ficción / Aventura",
+    "sinopsis": "Paul Atreides se une a Chani y a los Fremen en un camino de venganza contra quienes destruyeron a su familia, mientras intenta evitar un futuro terrible que solo él puede prever.",
+    "trailer": "https://www.youtube.com/watch?v=Way9Dexny3w"
+  },
+  {
+    "codigo": "T008",
+    "titulo": "Barbie",
+    "categoria": "Película",
+    "reparto": ["Margot Robbie", "Ryan Gosling", "Issa Rae", "Kate McKinnon", "America Ferrera"],
+    "genero": "Comedia / Fantasía",
+    "sinopsis": "Tras experimentar una crisis existencial, Barbie es expulsada de Barbieland y viaja junto a Ken al mundo real, donde ambos descubren las alegrías y los peligros de la vida entre los humanos.",
+    "trailer": ""
+  },
+  {
+    "codigo": "T009",
+    "titulo": "Coco",
+    "categoria": "Película",
+    "reparto": ["Anthony Gonzalez", "Gael García Bernal", "Benjamin Bratt", "Renée Victor"],
+    "genero": "Animación / Familiar",
+    "sinopsis": "Pese a la prohibición familiar de la música, Miguel sueña con ser un gran músico. Una cadena de eventos mágicos lo transporta a la colorida Tierra de los Muertos, donde descubre la verdadera historia de su familia.",
+    "trailer": ""
+  },
+  {
+    "codigo": "T010",
+    "titulo": "El Eternauta",
+    "categoria": "Serie",
+    "reparto": ["Ricardo Darín", "Carla Peterson", "César Troncoso", "Andrea Pietra", "Marcelo Subiotto"],
+    "genero": "Ciencia ficción",
+    "sinopsis": "Basada en la histórica novela gráfica argentina, sigue a Juan Salvo y a un grupo de sobrevivientes que deben resistir tras una nevada tóxica que aniquila a gran parte de la población de Buenos Aires y da paso a una invasión alienígena.",
+    "trailer": ""
+  },
+  {
+    "codigo": "T011",
+    "titulo": "Squid Game",
+    "categoria": "Serie",
+    "reparto": ["Lee Jung-jae", "Park Hae-soo", "Wi Ha-jun", "Jung Ho-yeon", "Oh Yeong-su"],
+    "genero": "Thriller / Drama de supervivencia",
+    "sinopsis": "Cientos de personas con problemas financieros aceptan una extraña invitación para competir en juegos infantiles. Los espera un premio tentador, pero las apuestas son mortales.",
+    "trailer": ""
+  },
+  {
+    "codigo": "T012",
+    "titulo": "Spider-Man: No Way Home",
+    "categoria": "Película",
+    "reparto": ["Tom Holland", "Zendaya", "Benedict Cumberbatch", "Jacob Batalon", "Willem Dafoe"],
+    "genero": "Acción / Superhéroes",
+    "sinopsis": "Tras ser expuesto como Spider-Man, Peter Parker le pide ayuda al Doctor Strange, pero un hechizo fallido abre la puerta al multiverso y hace que villanos de otras realidades invadan su mundo.",
+    "trailer": ""
+  }
+]
